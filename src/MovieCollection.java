@@ -74,9 +74,6 @@ public class MovieCollection {
                 System.out.println(m);
             }
         }
-
-        menu();
-        scan.close();
     }
 
     private void searchCast() {
